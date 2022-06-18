@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ann
+### Hi there, I'm Ann 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnIzm&layout=compact)](https://github.com/AnnIzm/github-readme-stats)
 <!--
 
