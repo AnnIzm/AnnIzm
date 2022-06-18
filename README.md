@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/hannaizm-95586a238/" target="_blank">Ann</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student</h3>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnIzm&layout=compact)](https://github.com/AnnIzm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnIzm&layout=compact)](https://github.com/AnnIzm/github-readme-stats)
 <!--
 
 Here are some ideas to get you started:
