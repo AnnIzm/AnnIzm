@@ -6,8 +6,8 @@
 
 <!-- - 🔭 I’m currently finding something interesting -->
  🌱 I’m currently learning java
-- 📫 How to reach me: theannalios@gmail.com
-- 👯 I’m looking to collaborate on interesting projects
+ 📫 How to reach me: theannalios@gmail.com
+ 👯 I’m looking to collaborate on interesting projects
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
